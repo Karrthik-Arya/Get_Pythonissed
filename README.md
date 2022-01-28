@@ -1,4 +1,4 @@
-# Get_Pythonissed
+# Get Pythonissed
 #### Momentum-Effect in Stock Trading
 
 * There's something which goes by the name of Momentum Anamoly in Trading, which says that what was strongly going up in the near past will probably continue to go up shortly. Stocks which outperform peers on 3-12 month period tend to perform well also in the future.
