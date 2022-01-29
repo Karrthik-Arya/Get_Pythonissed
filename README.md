@@ -1,5 +1,5 @@
 # Get Pythonissed
-*[Deadline: 11:59PM 2nd Feb 2022]**
+*[Deadline: 11:59PM 2nd Feb 2022]*
 
 ### **Jupyter Notebooks**
 
