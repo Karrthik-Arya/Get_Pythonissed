@@ -1,4 +1,5 @@
 # Get Pythonissed
+*[Deadline: 11:59PM 2nd Feb 2022]**
 
 ### **Jupyter Notebooks**
 
@@ -27,7 +28,7 @@ You can make use of instructions which we've provided for you in this [easier ve
 You can start implementing this strategy by taking help of instructions given in [this](https://github.com/Karrthik-Arya/Get_Pythonissed/blob/main/Pairs.ipynb) of the assignment, or implement everything from Scratch in this [notebook](https://github.com/Karrthik-Arya/Get_Pythonissed/blob/main/PairsH.ipynb) containing only the bare minimum instructions required to implement the strategy.
 
 ### Moving Ahead
-
+This is optional, just for exploring and is not necessary for the certificate.
 #### Predicitng Outlooks using a Naive Bayes' Model
 
 * Get to know about the Naive Bayes' Model from this [article](https://towardsdatascience.com/all-about-naive-bayes-8e13cef044cf) on Naive Bayes' Models and the part on Bernoulli's Naive Bayes' Classifier from this Wikipedia [article](https://en.wikipedia.org/wiki/Naive_Bayes_classifier).
