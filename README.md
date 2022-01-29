@@ -11,14 +11,14 @@ Google Colab is a platform provided by Google, which runs a Jupyter notebook in 
 The setup is platform agnostic i.e. all you need is a browser. The recommended way to get started is first logging in to Google. Sign in > Head to the home page for Google Colab [here](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) > click on New Notebook.
 From this point, everything is basically the same as a Jupyter notebook.
 
-#### Momentum-Effect in Stock Trading
+### Momentum-Effect in Stock Trading
 
 * There's something which goes by the name of Momentum Anamoly in Trading, which says that what was strongly going up in the near past will probably continue to go up shortly. Stocks which outperform peers on 3-12 month period tend to perform well also in the future.
 * You may read more about Momentum from [here](https://quantpedia.com/strategies/momentum-factor-effect-in-stocks/).
 
 You can make use of instructions which we've provided for you in this [easier version](https://github.com/Karrthik-Arya/Get_Pythonissed/blob/main/Momentum.ipynb) of the assignment or implement everything from scratch in this [notebook](https://github.com/Karrthik-Arya/Get_Pythonissed/blob/main/MomentumH.ipynb) containing only the bare minimum instructions required to implement a strategy which exploits the Momentum Effect in Stock Trading.
 
-#### Paired Switching
+### Paired Switching
 
 * You should get familiar with [Correlation](https://www.investopedia.com/ask/answers/032515/what-does-it-mean-if-correlation-coefficient-positive-negative-or-zero.asp) and its significance in Trading.
 * Next, Read up about [Paired Switching](https://quantpedia.com/strategies/paired-switching/).
